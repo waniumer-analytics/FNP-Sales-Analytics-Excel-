@@ -98,19 +98,12 @@ RECOMMENDATIONS
 
                                                    Links
 
-GitHub Repository:-www.github.com/waniumer-analytics .
+PORTFOLIO:-https://codebasics.io/portfolio/WANI-UMER
 
 
-LinkedIn Profile:- www.linkedin.com/in/waniumer-analytics 
+LinkedIn :- www.linkedin.com/in/waniumer-analytics 
 
 
-                                                  Connect With Me:
- 📧 Email:- waniumar398@gmail.com
-💼 Portfolio:-
-
-
-
-
-If you found this project insightful, please star the repository!
+                                            
 
 
